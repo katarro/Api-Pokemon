@@ -1,0 +1,19 @@
+{
+  "name": "GitHub",
+  "short_name": "GitHub",
+  "icons": [],
+  "prefer_related_applications": "true",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.github.android",
+      "id": "com.github.android"
+    }
+  ],
+  "start_url": "https://github.com/",
+  "background_color": "",
+  "url": "https://github.com/katarro/Api-pokemon.git",
+  "lang": "",
+  "screenshots": [],
+  "generated": true
+}
