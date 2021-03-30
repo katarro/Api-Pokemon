@@ -10,7 +10,7 @@ export default function Start() {
     <React.Fragment>
       <div className="container" id="container-Start">
         <div className="row3">
-          <div className="col-12">
+          <div className="col-6">
             <img src={img} alt="Pokemons" />
           </div>
 

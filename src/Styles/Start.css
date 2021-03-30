@@ -1,11 +1,13 @@
-#container-Start{
-    display:flex;
-    justify-content: center;
+#container-Start {
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+  border: solid green 2px;
 }
-#container-Start img{
-    width: 400px;
-    height: 400px;
+#container-Start img {
+  width: 400px;
+  height: 400px;
 }
-.btn-success{
-    box-shadow: 3px 3px 6px green;
+.btn-success {
+  box-shadow: 3px 3px 6px green;
 }
